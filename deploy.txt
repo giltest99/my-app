@@ -1,2 +1,5 @@
 npm install -D gh-pages
 
+Ajouter homepage dans package.json
+
+Ajouter scripts
