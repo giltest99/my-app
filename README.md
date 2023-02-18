@@ -86,7 +86,6 @@ function greeting(name){
     console.log(`Hello ${name}`);
 }
 ```
-
 <br>
 
 ***Don't forget to save and commit your work.***
