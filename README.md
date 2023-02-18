@@ -1,4 +1,3 @@
-
 # My APP
 
 ## Sous-titre de l'application
@@ -54,25 +53,23 @@ Code:
   "age": 25
 }
 ``` 
-<br />
+
 Highlighting important part:
 
 I need to highlight these ==very important words==. 
 
-<br />
+
 Format code:
 
 Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>i</kbd> to format code 
-
-<br />
 
 Table example
 
 | Last name | First name |
 | --------- | ---------- |
 | DOE       | John       |
+| DOE       | Jane       |
 
-<br />
 
 Aliases:
 
