@@ -64,18 +64,3 @@ Format code:
 
 Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>i</kbd> to format code 
 
-|||---|||
-#### Columns
-
-can save space.
-
-#### Prettify
-
-the page layout.
-
-*** promo
-#### Can be
-
-trendy.
-***
-|||---|||
