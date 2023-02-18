@@ -80,6 +80,7 @@ Aliases:
 | CRA   | `npx create-react-app my-app` |
 | VITE  | `npm create vite@latest`      |
 
+
 ```markdown
 | ALIAS | COMMAND                       |
 | ----- | ----------------------------- |
@@ -94,3 +95,9 @@ function greeting(name){
     console.log(`Hello ${name}`);
 }
 ```
+
+> ***Don't forget to save and commit your work.***
+> 
+> `git add .`
+> `git commit -m "message commit"`
+> `git push`
