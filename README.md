@@ -86,7 +86,9 @@ function greeting(name){
     console.log(`Hello ${name}`);
 }
 ```
-&nbsp;
+
+<br>
+
 ***Don't forget to save and commit your work.***
 > `git add .`
 > 
