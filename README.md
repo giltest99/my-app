@@ -31,3 +31,17 @@ npx create-react-app my-app
 <div align="center">
     <img src="./screen-cast.gif" width="100%" />
 </div>
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+``` 
+I need to highlight these ==very important words==. 
