@@ -63,6 +63,8 @@ Format code:
 
 Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>i</kbd> to format code 
 
+Press `Ctrl` + `Alt` + `a` to comment code 
+
 Table example
 
 | Last name | First name |
@@ -73,7 +75,21 @@ Table example
 
 Aliases:
 
-|ALIAS|COMMAND|
-|-|-|
-|CRA|`npx create-react-app my-app`|
-|VITE|`npm create vite@latest`|
+| ALIAS | COMMAND                       |
+| ----- | ----------------------------- |
+| CRA   | `npx create-react-app my-app` |
+| VITE  | `npm create vite@latest`      |
+
+```markdown
+| ALIAS | COMMAND                       |
+| ----- | ----------------------------- |
+| CRA   | `npx create-react-app my-app` |
+| VITE  | `npm create vite@latest`      |
+
+```
+
+```js
+function greetings(name){
+    console.log(`Hello ${name}`);
+}
+```
