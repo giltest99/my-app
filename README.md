@@ -21,12 +21,14 @@ npx create-react-app my-app
 
 ```
 
-<p>
+<!-- <p>
     <img src="https://static.secureholiday.net/static/CMS/photos/000/063/000063554.jpg?format=webp" />
     <label>La Bretagne</label>
-</p>
+</p> -->
 
-![bretagne](./screen-cast.gif)
+![bretagne](https://static.secureholiday.net/static/CMS/photos/000/063/000063554.jpg?format=webp)
+
+![screencast](./screen-cast.gif)
 
 <br />
 
@@ -61,3 +63,19 @@ I need to highlight these ==very important words==.
 Format code:
 
 Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>i</kbd> to format code 
+
+|||---|||
+#### Columns
+
+can save space.
+
+#### Prettify
+
+the page layout.
+
+*** promo
+#### Can be
+
+trendy.
+***
+|||---|||
