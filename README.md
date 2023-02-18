@@ -32,10 +32,16 @@ npx create-react-app my-app
     <img src="./screen-cast.gif" width="100%" />
 </div>
 
+<br />
+Table:
+
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text | 
+
+<br />
+Code:
 
 ```
 {
@@ -44,4 +50,12 @@ npx create-react-app my-app
   "age": 25
 }
 ``` 
+<br />
+Highlighting important part:
+
 I need to highlight these ==very important words==. 
+
+<br />
+Format code:
+
+Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>i</kbd> to format code 
