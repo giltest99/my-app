@@ -39,10 +39,10 @@ npx create-react-app my-app
 <br />
 Table:
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
 
 <br />
 Code:
@@ -64,3 +64,11 @@ Format code:
 
 Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>i</kbd> to format code 
 
+| Last name | First name |
+| --------- | ---------- |
+| DOE       | John       |
+
+|ALIAS|COMMAND|
+|-|-|
+|CRA|`npx create-react-app my-app`|
+|VITE|`npm create vite@latest`|
