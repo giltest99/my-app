@@ -32,15 +32,21 @@ Markdown code and output result
 
 La Bretagne
 ![bretagne](https://static.secureholiday.net/static/CMS/photos/000/063/000063554.jpg?format=webp)
+<br>
+
+![Groupmania](public/mono-groupo.svg)
+<br>
 
 Screen cast GIF
 ![screencast](./screen-cast.gif)
+<br>
 
 Table:
 | Syntax    | Description |
 | --------- | ----------- |
 | Header    | Title       |
 | Paragraph | Text        |
+<br>
 
 Code:
 ```
