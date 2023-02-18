@@ -64,9 +64,17 @@ Format code:
 
 Press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>i</kbd> to format code 
 
+<br />
+
+Table example
+
 | Last name | First name |
 | --------- | ---------- |
 | DOE       | John       |
+
+<br />
+
+Aliases:
 
 |ALIAS|COMMAND|
 |-|-|
