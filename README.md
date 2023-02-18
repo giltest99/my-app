@@ -98,7 +98,5 @@ function greeting(name){
 
 ***Don't forget to save and commit your work.***
 > `git add .`
-> 
 > `git commit -m "message commit"`
-> 
 > `git push`
