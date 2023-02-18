@@ -89,7 +89,8 @@ Aliases:
 ```
 
 ```js
-function greetings(name){
+// Greenting function with parameter
+function greeting(name){
     console.log(`Hello ${name}`);
 }
 ```
