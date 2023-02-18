@@ -1,3 +1,9 @@
 # My APP
 
-Deploy test.
+## Sous-titre de l'application
+
+Ceci est la présentation de l'application.
+
+```javascript
+npx create-react-app my-app
+```
