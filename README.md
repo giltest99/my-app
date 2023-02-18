@@ -26,6 +26,8 @@ npx create-react-app my-app
     <label>La Bretagne</label>
 </p>
 
+![bretagne](./screen-cast.gif)
+
 <br />
 
 <div align="center">
