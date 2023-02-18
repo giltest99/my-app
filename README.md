@@ -1,7 +1,5 @@
 # My APP
-
-## Sous-titre de l'application
-
+## Sous-titre de l'application
 Ceci est la présentation de l'application.
 
 ```javascript
