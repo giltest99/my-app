@@ -30,9 +30,9 @@ npx create-react-app my-app
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
     <img src="./screen-cast.gif" width="100%" />
-</div>
+</div> -->
 
 <br />
 Table:
